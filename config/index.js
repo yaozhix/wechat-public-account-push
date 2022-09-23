@@ -62,19 +62,19 @@ export const USER_CONFIG = {
       // 想要发送的人的名字
       name: "早安",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "oZnQ568RmhPbgIA-P6WLpINjCruM",
+      id: "oZnQ564zfhiLbFla1EZcSwz1VxgY",
       // 你想对他发送的模板消息的模板ID
       useTemplateId: "6-gjS4zq4r4MJ5BOFbB-Er9pfnEL6uq-212mj2hYJ6A",
       // 所在省份
       province: "福建",
       // 所在城市
-      city: "泉州",
+      city: "莆田",
       // 新历生日, 仅用作获取星座运势, 格式必须
       horoscopeDate: '02-26',
       // 获取什么时候的星座运势，可选：['今日', '明日', '本周', '本月', '今年'], 留空则随机
       horoscopeDateType: '今日',
       // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
-      openUrl: "https://zhengnengliang.52.com",
+      openUrl: "https://pvp.qq.com",
       // 专属节日提醒，如果你在这里填写了节日提醒，就不会执行FESTIVALS的提醒了, 和FESTIVALS的配置方法相同，可以往下查看，我这里就不重复写了
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
