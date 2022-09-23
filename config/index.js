@@ -64,7 +64,7 @@ export const USER_CONFIG = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "oZnQ564zfhiLbFla1EZcSwz1VxgY",
+      useTemplateId: "wx9a37c98f4e5d250f",
       // 所在省份
       province: "广东",
       // 所在城市
@@ -97,7 +97,7 @@ export const USER_CONFIG = {
     {
       name: "老婆1",
       id: "",
-      useTemplateId: "oZnQ564zfhiLbFla1EZcSwz1VxgY",
+      useTemplateId: "wx9a37c98f4e5d250f",
       province: "",
       city: "",
       horoscopeDate: '',
@@ -124,7 +124,7 @@ export const USER_CONFIG = {
       // 一般都填自己
       name: "自己",
       // 自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "wx9a37c98f4e5d250f",
+      id: "oZnQ564zfhiLbFla1EZcSwz1VxgY",
     },
     // 你可以不断按格式往下增加
     // ...
