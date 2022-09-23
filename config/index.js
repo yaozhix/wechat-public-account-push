@@ -12,8 +12,6 @@ export const USER_CONFIG = {
   // 建议不要填这里，请使用文档中github secret的方法进行保密配置，保护您的隐私安全。
   // 如果你非要填这里也行。脚本也能运行
   APP_SECRET: "ebb43cad2d3aae7af532fa2d8cb4daf0",
-  TEMPLATE_ID:"N6A3KRK11WJ8cWh1AmzBtIat4t8qtZbO9lHJKKFbq_8",
-  USERS:["oZnQ568Y5XSwg2dw-ELjp8St2zKw"],
   
   // 是否给文字设置多彩颜色, 和emoji不兼容
   // 如果您使用了微信测试号的模板中含有emoji表情，请填 false
@@ -66,7 +64,7 @@ export const USER_CONFIG = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "",
+      useTemplateId: "oZnQ568Y5XSwg2dw-ELjp8St2zKw","oZnQ564zfhiLbFla1EZcSwz1VxgY",
       // 所在省份
       province: "广东",
       // 所在城市
@@ -141,7 +139,7 @@ export const USER_CONFIG = {
    */
   
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: "",
+  CALLBACK_TEMPLATE_ID: "N6A3KRK11WJ8cWh1AmzBtIat4t8qtZbO9lHJKKFbq_8",
   
   // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
   CALLBACK_USERS: [
@@ -149,7 +147,7 @@ export const USER_CONFIG = {
       // 一般都填自己
       name: "自己",
       // 自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "",
+      id: "wx9a37c98f4e5d250f",
     },
     // 你可以不断按格式往下增加
     // ...
