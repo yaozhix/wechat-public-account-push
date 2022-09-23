@@ -62,13 +62,13 @@ export const USER_CONFIG = {
       // 想要发送的人的名字
       name: "早安",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "oZnQ564zfhiLbFla1EZcSwz1VxgY",
+      id: "oZnQ568RmhPbgIA-P6WLpINjCruM",
       // 你想对他发送的模板消息的模板ID
       useTemplateId: "6-gjS4zq4r4MJ5BOFbB-Er9pfnEL6uq-212mj2hYJ6A",
       // 所在省份
       province: "福建",
       // 所在城市
-      city: "莆田",
+      city: "泉州",
       // 新历生日, 仅用作获取星座运势, 格式必须
       horoscopeDate: '02-26',
       // 获取什么时候的星座运势，可选：['今日', '明日', '本周', '本月', '今年'], 留空则随机
@@ -94,18 +94,7 @@ export const USER_CONFIG = {
         {"keyword": "ex_day", date: "2022-09-10"},
       ]
     },
-    {
-      name: "老婆1",
-      id: "",
-      useTemplateId: "6-gjS4zq4r4MJ5BOFbB-Er9pfnEL6uq-212mj2hYJ6A",
-      province: "",
-      city: "",
-      horoscopeDate: '',
-      horoscopeDateType: '',
-      openUrl: "https://wangxinleo.cn",
-      festivals: [],
-      customizedDateList: []
-    },
+
 
     // 你可以不断按格式往下增加
     // ...
